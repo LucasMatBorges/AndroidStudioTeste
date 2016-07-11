@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
         Handler myhandler = new Handler();
         myhandler.postDelayed(runnable3secs, 3000); // 3000 = tempo de execução da splash ( 3000 milisegundos = 3 segundos)
-
+        //ff
     }
 
     public void nextActivity() {
